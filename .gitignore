@@ -28,3 +28,12 @@ proguard/
 *.iws
 .idea/
 
+*.class
+logs/
+*.log
+*~
+Thumbs.db
+.bae/
+target/
+.settings/
+
